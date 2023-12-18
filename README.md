@@ -13,5 +13,5 @@ The Frog and Leap game is a classic puzzle game where we have to switch the posi
 2) Frogs can move forward one space, or move two spaces by jumping over another frog from opposite side.
 3) The puzzle is solved when the two sets of frogs have switched positions sucessfully.
 
-  [Link of the game](https://www.neok12.com/games/leap-froggies/leap-froggies.htm)
+  [Link to the game](https://www.neok12.com/games/leap-froggies/leap-froggies.htm)
   
