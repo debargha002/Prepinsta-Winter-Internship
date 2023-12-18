@@ -4,3 +4,6 @@ This is a 8-week hands-on internship programme offered by Prepinsta. In this dur
 
 - ### Week 1 Task:- Creating Functional Dashboard in Google Sheets
 Create a functional dashboard in Google Sheets/Excel to analyze and visualize data related to bike buyers. Your dashboard should provide insights into the behavior and preferences of bike buyers.
+
+- ### Week 2 Task:- Develop a simple game in Python, titled “Frog and Leap"
+  
