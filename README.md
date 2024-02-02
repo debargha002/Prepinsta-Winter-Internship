@@ -1,6 +1,6 @@
 # Prepinsta-Winter-Internship
 
-This is a 8-week hands-on internship programme offered by **PrepInsta**. In this duration, we will learn and implement the skills to our projects. During this 8 weeks, we will learn `Excel`, `Python`, `Tableau`, `SQL`, `Kaggle Notebooks`, `Data Structures`, `conditional statements`, `loops`,  libraries like `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, etc. We will also be doing `Web Scraping`, `database setup`, `data cleaning`, `EDA`, `data collection`, `dashboard planning`, and many more just to name a few.
+This is a 8-week hands-on internship programme offered by **PrepInsta**. In this duration, we will learn and implement the skills to our projects. During this 8 weeks, we will learn `Excel`, `Python`, `Tableau`, `SQL`, `Kaggle Notebooks`, `conditional statements`, `loops`,  libraries like `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, etc. We will also be doing `Web Scraping`, `data cleaning`, `EDA`, `data collection`,`data vizualization`, `dashboard planning`, and many more just to name a few.
 
 - ## Week 1 Task:- Creating Functional Dashboard in Google Sheets
 Create a functional dashboard in Google Sheets/Excel to analyze and visualize data related to bike buyers. Your dashboard should provide insights into the behavior and preferences of bike buyers.
@@ -13,7 +13,7 @@ The Frog and Leap game is a classic puzzle game where we have to switch the posi
 2) Frogs can move forward one space, or move two spaces by jumping over another frog from opposite side.
 3) The puzzle is solved when the two sets of frogs have switched positions sucessfully.
 
-  [Link to the game](https://www.neok12.com/games/leap-froggies/leap-froggies.htm)
+  **Reference**:- [Link to the game](https://www.neok12.com/games/leap-froggies/leap-froggies.htm)
   
 - ## Week 3 Task:- Data Cleaning and Manipulation using Pandas and Numpy
 1) Handle missing values and any duplicate records in the dataset and correct any inconsistencies or errors in data entry.
@@ -30,7 +30,6 @@ Solving a murder mystery using SQL (MySQL, Oracle, SQLite, etc). Develop SQL que
 
 Select a target website and use web scraping libraries like BeautifulSoup and Requests and extract relevant data from the website and store it in a suitable format for analysis.
 
-
 - ## Week 6 Task:- Python Exploratory Data Analysis
 The goal is to perform tasks such as data profiling, missing data handling, and visual exploration to uncover insights and patterns within the data.
 
@@ -42,4 +41,42 @@ The goal is to perform tasks such as data profiling, missing data handling, and 
 6) **Correlation Analysis:** Perform correlation analysis to identify relationships between variables. Interpret the correlation coefficients and understand the implications for the dataset.
 7) **Visual Exploration:** Create visualizations to explore relationships and patterns within the data. Utilise charts, graphs, and other visual tools to represent the dataset’s characteristics.
 
-- ## Week 7 Task:-
+- ## Week 7 Task:- Tableau And Data Reporting
+Design and build a Tableau dashboard to visually present data insights and key findings from a provided dataset. Your goal is to create an interactive and informative dashboard that effectively communicates the story within the data.
+#### Dashboard Components:
+1) **Map Visualization**:
+-	Use geographical maps to visualize air quality levels across different states or regions in India.
+-	Color code the map markers based on the air quality index (AQI) or other relevant metrics.
+2) **Time Series Charts**:
+-	Create time series line charts to depict changes in air quality over the years.
+-	Group the data by months or years to identify patterns and trends.
+3) **Policy Change Timeline**:
+-	Integrate a timeline component to showcase key environmental policy changes in India.
+-	Highlight these policy change events on the timeline to observe correlations with air quality variations.
+4) **Filter Options**:
+-	Implement filters for users to select specific states, periods, or pollutant types.
+-	Allow users to customize their views based on their interests or research questions.
+5) **Comparative Analysis**:
+-	Include comparative charts to showcase air quality comparisons between different states or regions.
+-	Utilize bar charts or line charts to illustrate variations in air quality metrics.
+6) **Top Pollutant Analysis**:
+-	Identify and display the top pollutants contributing to poor air quality.
+-	Utilize bar charts or pie charts to represent the proportion of each pollutant.
+
+- ## Week 8 Task:- Capstone Project - Fitbit Consumer Behavior Analysis
+
+**Objective**:
+Imagine you are a data analyst at “HealthTrackers Inc.,” a fictional company operating in the Fitbit industry. Your company is dedicated to understanding consumer behavior to enhance product offerings and optimize marketing strategies. You have been tasked with analyzing a comprehensive dataset obtained from Fitbit users to uncover trends and insights. The business objective is to identify key trends, understand their implications for customers, and leverage these insights to shape an effective marketing strategy.
+
+**Business Task**:
+Analyze FitBit Fitness Tracker App data to gain insights into how consumers are using the FitBit app and discover trends and insights for the marketing team.
+Business Objectives:
+- What are the trends identified?
+- How could these trends apply to customers?
+- How could these trends help influence marketing strategy?
+
+**Business Objectives**:
+- What are the trends identified?
+- How could these trends apply to customers?
+- How could these trends help influence marketing strategy?
+
